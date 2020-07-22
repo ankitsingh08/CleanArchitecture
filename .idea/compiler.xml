@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="GithubTrendingCleanArch.app" target="1.8" />
+      <module name="GithubTrendingCleanArch.cache" target="1.8" />
+      <module name="GithubTrendingCleanArch.Data" target="1.8" />
+      <module name="GithubTrendingCleanArch.Domain" target="1.8" />
+      <module name="GithubTrendingCleanArch.mobileui" target="1.8" />
+      <module name="GithubTrendingCleanArch.presentation" target="1.8" />
+      <module name="GithubTrendingCleanArch.Remote" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

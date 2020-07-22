@@ -1,0 +1,7 @@
+include ':mobileui'
+include ':presentation'
+include ':cache'
+include ':Remote'
+include ':Data'
+include ':Domain'
+rootProject.name = "GithubTrendingCleanArch"
